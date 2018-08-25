@@ -1,5 +1,5 @@
 {
-  "name": "instascan-umd-fix",
+  "name": "instascan-umd",
   "version": "1.0.1",
   "description": "A UMD compatible port of Instascan",
   "main": "dist/instascan.js",
