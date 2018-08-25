@@ -1,9 +1,9 @@
 {
-  "name": "instascan-umd",
+  "name": "instascan-umd-fix",
   "version": "1.0.1",
   "description": "A UMD compatible port of Instascan",
   "main": "dist/instascan.js",
-  "repository": "git@github.com:rubenspgcavalcante/instascan-umd.git",
+  "repository": "git@github.com:doananh234/instascan-umd.git",
   "author": "Rubens Pinheiro",
   "license": "MIT",
   "private": false,
